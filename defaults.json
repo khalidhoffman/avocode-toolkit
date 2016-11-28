@@ -1,0 +1,21 @@
+{
+  "colors" : [
+    {
+      "value": "#fff",
+      "name": "$color-white",
+      "type": "color"
+    },
+    {
+      "value": "#000",
+      "name": "$color-black",
+      "type": "color"
+    }
+  ],
+  "vars": [
+    {
+      "value": "([0-9]+\\.?[0-9]*)px",
+      "name": "em-auto($1px)",
+      "type": "replace"
+    }
+  ]
+}

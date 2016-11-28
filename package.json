@@ -1,0 +1,34 @@
+{
+  "name": "avocode-toolkit",
+  "version": "0.0.1",
+  "description": "Toolkit for Avocode",
+  "main": "index.js",
+  "scripts": {
+    "test": "node bin/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidhoffman/avocode-toolkit.git"
+  },
+  "keywords": [
+    "Avocode",
+    "toolkit",
+    "colors"
+  ],
+  "author": "Khalid Hoffman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidhoffman/avocode-toolkit/issues"
+  },
+  "homepage": "https://github.com/khalidhoffman/avocode-toolkit#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "color-namer": "^1.1.0",
+    "lodash": "^4.17.2",
+    "onecolor": "^3.0.4"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "jasmine-spec-reporter": "^2.7.0"
+  }
+}

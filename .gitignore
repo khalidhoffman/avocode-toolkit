@@ -1,0 +1,11 @@
+.idea
+node_modules
+*.swp
+*.swo
+state.json
+
+# excluding these tests because a valid avocode data file is required
+spec/avocode-helper-spec.js
+spec/lib/project-spec.js
+spec/lib/user-spec.js
+
