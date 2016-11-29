@@ -1,6 +1,6 @@
 {
   "name": "avocode-toolkit",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Toolkit for Avocode",
   "main": "index.js",
   "bin": {
