@@ -4,6 +4,7 @@ Defines and imports all colors into avocode project. Adds variable regular expre
 ## Installation
 1. `npm i git+https://github.com/khalidhoffman/avocode-toolkit.git`
     * run with global `-g` flag to add `avocode-autofill` to path
+    
 ## Usage
 1. Open Avocode and load (open and view) desired project designs
 2. Close Avocode
